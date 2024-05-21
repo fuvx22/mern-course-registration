@@ -1,0 +1,12 @@
+@media (max-width: 576px) {
+  .announcement-section, .guild.section {
+  height: auto;
+  max-height: none;
+  }
+  .announce-item {
+    margin: 5px 2px;
+  }
+  .user-info {
+    width: auto !important;
+  }
+}
